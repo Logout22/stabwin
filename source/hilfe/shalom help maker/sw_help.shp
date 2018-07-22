@@ -1,0 +1,614 @@
+##v##00.4.50
+EditHelpFileTitle.Text=StabWin Dokumentation
+form2.STextForeHeadline.Color=16777215
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=12845056
+form2.STextBackText.Color=14876671
+form2.STextHeadlineFont.Caption=Arial
+form2.STextTextFont.Caption=Arial
+form2.sTextFontSizeForHeadline.Caption=12
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=1
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents
+form2.EditFrontpageName.Text=Front page with index
+form2.CBoxDontMakeFrontpage.Checked=1
+form2.EditLogoPath.Text=
+form2.EditFrontpageButtonCaption.Text=Front page
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=1
+form2.CBoxMakeFrontPageButton.Checked=0
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=-1
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=18
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=Willkommen
+getPageConstantLabel(0).Caption=
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=Einrichten von StabWin
+getPageConstantLabel(1).Caption=
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=1. Allgemein
+getPageConstantLabel(2).Caption=
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=2. StabWin-Dateimanager
+getPageConstantLabel(3).Caption=
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=3. Menü
+getPageConstantLabel(4).Caption=
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=4. Desktop
+getPageConstantLabel(5).Caption=
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=5. Tray
+getPageConstantLabel(6).Caption=
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=
+pageC.pages[7].ImageIndex=-1
+pageTitle(7).Text=Fehlermeldungen
+getPageConstantLabel(7).Caption=
+getPageContentHeaderLabel(7).Caption=
+pageKeywords(7).Text=
+pageC.pages[8].ImageIndex=-1
+pageTitle(8).Text=Programme im StabWin-Startmenü
+getPageConstantLabel(8).Caption=
+getPageContentHeaderLabel(8).Caption=
+pageKeywords(8).Text=
+pageC.pages[9].ImageIndex=-1
+pageTitle(9).Text=Bedienung der Oberfläche
+getPageConstantLabel(9).Caption=
+getPageContentHeaderLabel(9).Caption=
+pageKeywords(9).Text=
+pageC.pages[10].ImageIndex=-1
+pageTitle(10).Text=Bedienung des Dateimanagers
+getPageConstantLabel(10).Caption=
+getPageContentHeaderLabel(10).Caption=
+pageKeywords(10).Text=
+pageC.pages[11].ImageIndex=-1
+pageTitle(11).Text=1. Datei
+getPageConstantLabel(11).Caption=
+getPageContentHeaderLabel(11).Caption=
+pageKeywords(11).Text=
+pageC.pages[12].ImageIndex=-1
+pageTitle(12).Text=2. Bearbeiten
+getPageConstantLabel(12).Caption=
+getPageContentHeaderLabel(12).Caption=
+pageKeywords(12).Text=
+pageC.pages[13].ImageIndex=-1
+pageTitle(13).Text=3. Dateiaktionen
+getPageConstantLabel(13).Caption=
+getPageContentHeaderLabel(13).Caption=
+pageKeywords(13).Text=
+pageC.pages[14].ImageIndex=-1
+pageTitle(14).Text=4. ? (Infomenü)
+getPageConstantLabel(14).Caption=
+getPageContentHeaderLabel(14).Caption=
+pageKeywords(14).Text=
+pageC.pages[15].ImageIndex=-1
+pageTitle(15).Text=Fehlermeldungen
+getPageConstantLabel(15).Caption=
+getPageContentHeaderLabel(15).Caption=
+pageKeywords(15).Text=
+pageC.pages[16].ImageIndex=-1
+pageTitle(16).Text=FAQ / Tipps
+getPageConstantLabel(16).Caption=
+getPageContentHeaderLabel(16).Caption=
+pageKeywords(16).Text=
+pageC.pages[17].ImageIndex=-1
+pageTitle(17).Text=Glossar
+getPageConstantLabel(17).Caption=
+getPageContentHeaderLabel(17).Caption=
+pageKeywords(17).Text=
+pageC.pages[18].ImageIndex=-1
+pageTitle(18).Text=Informationen / Danksagungen
+getPageConstantLabel(18).Caption=
+getPageContentHeaderLabel(18).Caption=
+pageKeywords(18).Text=
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+Herzlich willkommen im StabWin Hilfesystem!
+Erst einmal möchte ich Ihnen dafür danken, dass Sie sich für StabWin entschieden haben. Ich habe versucht, die Bedienung so gut wie möglich an die der Standardoberfläche anzupassen. Dennoch wollte ich StabWin auch nach den Kriterien ausrichten, die seine Markenzeichen werden sollen: Schnelligkeit und vor allem höchstmögliche Stabilität. Nach einer kurzen Phase der Eingewöhnung wird Ihnen die Arbeit am PC wesentlich leichter von der Hand gehen.
+
+Was ist StabWin?
+
+StabWin ist eine Oberfläche für Windows-PC-Systeme. Das bedeutet, dass Sie optisch den Eindruck haben, ein anderes Betriebssystem zu nutzen, allerdings immer noch mit Windows arbeiten. Der Bestandteil, der für das Aussehen des Betriebssystems zuständig ist, heißt Oberfläche oder englisch Shell. Normalerweise ist das eine Explorer genannte Datei, diese wird allerdings während der Installation durch StabWin ersetzt. Dieser Schritt lässt sich selbstverständlich jederzeit rückgängig machen, sodass Sie wieder zum normalen Erscheinungsbild zurückkehren können. Damit sind wir beim nächsten Thema:
+
+Wann sollte man StabWin einsetzen?
+
+Generell sollte man StabWin benutzen wenn Windows zu  langsam, aufdringlich oder instabil ist, also vor allem unter den Systemen Windows 95, 98 und Me. Denn StabWin beseitigt diese Schwächen. Es ist übersichtlich und komfortabel zu bedienen, hat eine unaufdringliche Farbgebung und ist vor allem sehr schnell und sehr stabil. Ausprobieren lohnt sich auf jeden Fall!
+
+Wann sollte man StabWin nicht benutzen?
+
+Der Benutzung von StabWin steht prinzipiell nichts im Weg.
+
+Weitere Informationen
+
+Sollten Sie etwas nicht verstehen, können Sie im Glossar nachsehen. Bei Problemen mit der Benutzung von StabWin sollten Sie zuerst im FAQ-Abschnitt (Häufig gestellte Fragen) nachsehen, bevor Sie den Autor kontaktieren. Weitere Informationen zum Autor und aktuelles zum Programm finden Sie unter:
+{\uldb http://stabwin.de.vu}{\v !ExecFile(http://stabwin.de.vu,,9,)}
+
+<u>Inhalt</u>
+
+- <jump=SHM_contents0002>Einrichten von StabWin</jump>
+- <jump=SHM_contents0009>Programme im StabWin-Startmenü</jump>
+- <jump=SHM_contents0010>Bedienung der Oberfläche</jump> 
+- <jump=SHM_contents0011>Bedienung des Dateimanagers</jump> 
+- <jump=SHM_contents0017>FAQ / Tipps</jump>
+- <jump=SHM_contents0018>Glossar</jump> 
+- <jump=SHM_contents0019>Informationen / Danksagungen</jump>
+----- SHM ---- page 1 ---- 
+Das Einrichten von StabWin erfolgt mit dem StabWin Konfigurationsprogramm. Dieses Programm erscheint sofort nach der Installation. Außerdem können Sie es jederzeit über das Startmenü aufrufen, sobald Sie eine Verknüpfung dazu anlegen. Das ist standardmäßig vorgegeben und ich rate Ihnen auch dazu, sie zu erstellen.
+Wenn Sie das Programm starten, werden Sie zuerst eine Registerkarte sehen, die Ihnen die einzelnen Buttons erklärt. Über den Hilfe-Button rufen Sie die Hilfe zu StabWin auf. Sollte das nicht funktionieren, wurde StabWin möglicherweise nicht korrekt installiert. Über Fertigstellen beenden Sie das Programm und speichern die Einstellungen, über Abbrechen beenden Sie das Programm, ohne die Einstellungen zu speichern. Am oberen Rand des Fensters sehen Sie die Registerreiter, nach denen die Einstellungen geordnet sind. Die Einstellungen werden nun nach diesen Kategorien geordnet beschrieben.
+
+<jump=SHM_contents0003>Weiter</jump>
+----- SHM ---- page 2 ---- 
+<b>- StabWin-Verzeichnis</b> 
+
+Das StabWin Verzeichnis ist der Ordner, in das alle Komponenten kopiert wurden. Standardmäßig ist es richtig eingestellt, eine Anpassung ist nur in Spezialfällen nötig. 
+
+<b>- StabWin als Oberfläche einsetzen</b>
+
+Hiermit bestimmen Sie, ob beim nächsten Start StabWin oder der Explorer erscheinen sollen. Zur Installation von neuen Programmen sollten Sie diese Option deaktivieren, weil es sonst zu Problemen kommen könnte. 
+
+<b>- Automatisch starten</b>
+
+Hiermit können Sie beeinflussen, welche StabWin-Komponenten Sie aktivieren möchten. Mehr zu den einzelnen Komponenten erfahren Sie auf deren Hilfeseiten. 
+
+<b>- StabWin deinstallieren</b>
+
+Mit dieser Option können Sie StabWin von Ihrem Rechner entfernen. Alle Einstellungen des aktuellen Benutzers werden dabei gelöscht.
+
+<jump=SHM_contents0004>Weiter</jump>
+----- SHM ---- page 3 ---- 
+<b>- Pfad zum Dateimanager</b>
+
+Diese Option bestimmt den Pfad zum Dateimanager. Standardmäßig ist der StabWin-Dateimanager eingestellt. Es wird empfohlen, diese Einstellung beizubehalten. Alternativ können Sie C:\Windows\Explorer.exe oder Ihren favorisierten Dateimanager benutzen.
+
+<b>- Zurücksetzen</b>
+
+Setzt den Dateimanagerpfad auf den Standard zurück, basierend auf dem eingegebenen StabWin-Verzeichnis.
+
+<b>- Dateien von folgendem Typ anzeigen</b>
+
+Diese Option bestimmt, welchen Typ von Dateien der Dateimanager anzeigen soll. Standard ist *. *, also alle Dateien. Erlaubt ist außerdem das ? für ein Zeichen. Es können vollständige Dateinamen, vordere und hintere Teile des Namens eingegeben werden. Normalerweise ist es am besten, die Einstellung so zu belassen.
+
+<b>- Dateiattribute</b>
+
+Hier werden die Attribute bestimmt, die Dateien haben müssen, um angezeigt zu werden. Man sollte eigentlich auch diese Einstellung belassen. Wer allerdings versteckte und Systemdateien ausblenden will, sollte die entsprechenden Optionen deaktivieren.
+
+<jump=SHM_contents0005>Weiter</jump>
+----- SHM ---- page 4 ---- 
+<b>- Buttons: Hinzufügen/Entfernen/Eigenschaften</b>
+
+Hier können Buttons für das Menü hinzugefügt, entfernt und verändert werden. Die Standard-Buttons verweisen auf das Startmenü und auf das erste CD- bzw. DVD-Laufwerk. Sie können an diese Stelle auch häufig benutzte Ordner setzen. 
+
+<b>- Folgende Programme im Startmenü verknüpfen</b>
+
+Hier stellen Sie ein, welche Programme Sie in den für StabWin reservierten Ordner eintragen wollen. Es wird empfohlen, alle Programme einzutragen, um eine bequemere Zugriffsmöglichkeit auf alle Zusatzkomponenten zu haben. Speicherplatz und Übersicht spielen diesem Fall eine untergeordnete Rolle.
+
+<b>- Standard-Buttons wiederherstellen</b>
+ 
+Dieser Button stellt die Buttons wieder her, die standardmäßig vorgegeben sind. Dabei wird auch der Ort des Startmenüs neu eingelesen. Dies kann das Menü wieder funktionsfähig machen (siehe FAQ).
+
+<jump=SHM_contents0006>Weiter</jump>
+----- SHM ---- page 5 ---- 
+<b>- Auswahl (Klick/Doppelklick)</b>
+
+Mit dieser Option können Sie einstellen, ob Sie die Symbole auf dem Desktop einmal oder doppelt anklicken müssen. Im Dateimanager müssen Sie jedoch immer alles doppelt anklicken, um es auszuführen. 
+
+<b>- Folgende Symbole auf dem Desktop einrichten</b>
+
+Hiermit bestimmen Sie, welche Symbole Sie auf dem Desktop platzieren wollen. Es folgt eine Beschreibung der Symbole: 
+
+	- Arbeitsplatz  - Mit diesem Symbol können Sie auf die Daten Ihres Computers zugreifen. Diese Funktion können Sie nur dann nutzten, wenn Sie den StabWin-Dateimanager einsetzen.
+	- Eigene Dateien  - Hiermit greifen Sie auf den Ordner mit Ihren eigenen Dokumenten zu. 
+	- Internet-Explorer  - Startet den Internet-Explorer. 
+	- Netzwerkumgebung  - Zeigt die Netzwerkumgebung an. Diese Funktion können Sie nur dann nutzen, wenn Sie den StabWin-Dateimanager einsetzen.
+	- Papierkorb  - Zeigt den Papierkorb an. Diese Funktion können Sie nur dann nutzten, wenn Sie den StabWin-Dateimanager einsetzen.
+
+<jump=SHM_contents0008>Weiter</jump>
+----- SHM ---- page 6 ---- 
+<b>- Position des System-Trays</b>
+
+Hier kann man die Position des System-Trays bestimmen, indem man dessen x- und y-Koordinate angibt. Zudem wird hier der Copyright-Hinweis angezeigt, der <jump=SHM_contents0010>hier</jump> nochmals auftaucht.
+----- SHM ---- page 7 ---- 
+<b>- Sie haben keine Administrator-Rechte. Lassen Sie die Shelländerung von Ihrem Systemadministrator durchführen.</b>
+
+Diese Meldung zeigt Ihnen an, dass Sie nicht die Berechtigung haben, die Shell (Oberfläche) zu ändern. Lassen Sie dies einen Administrator durchführen. Ihre anderen Einstellungen wurden trotzdem gespeichert. 
+
+<b>- Bevor Sie die Oberfläche auf StabWin setzen, müssen Sie sicherstellen, dass dieser Assistent für alle Benutzer auf dem Computer ausgeführt wurde. Ist das der Fall? Wenn nicht, deaktivieren Sie "StabWin als Oberfläche einsetzen".</b>
+
+Sie müssen StabWin für alle Benutzer Ihres Computers konfigurieren. StabWin muss nach der Anmeldung bestimmte Einstellungen aus der benutzerspezifischen Registry auslesen. Diese Einstellungen müssen für jeden Benutzer einzeln getroffen werden. Deswegen fragt das Konfigurationsprogramm nach, ob das schon durchgeführt worden ist.
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 8 ---- 
+Folgende Programme finden Sie im Startmenü direkt im Unterordner StabWin, nicht im Programme-Ordner.
+
+<b>- Abmelden+Beenden</b>
+
+Mit diesem Programm können Sie den Computer herunterfahren oder sich abmelden. Die einzelnen Unterpunkte erklären sich von selbst. Durch einen Mausklick auf OK wird die ausgewählte Aktion ausgeführt, mit Abbrechen schließt man das Programm, ohne eine Aktion auszuführen.
+
+<b>- Benutzer wechseln bzw. Computer sperren</b>
+
+Dieses Programm funktioniert nur unter Windows NT,2000 und XP. Unter Windows 95,98,Me ruft es eine Fehlermeldung hervor. Es dient dazu, wie der Titel schon sagt, den Benutzer zu wechseln (XP) bzw. den Computer zu sperren (NT,2000). Eine kurze Meldung fragt nach dem Programmstart, ob man diese Aktion auch wirklich durchführen will.
+
+<b>- Informationen über StabWin</b>
+
+Dieses kleine Programm zeigt diverse Informationen über StabWin an, wie das Logo und den Autor.
+
+<b>- StabWin Konfigurationsprogramm</b>
+
+Mit diesem Programm können Sie StabWin konfigurieren. Mehr dazu im Abschnitt "Einrichten von StabWin"
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 9 ---- 
+<b>- Desktop</b>
+
+Die Bedienung des Desktops ist weitgehend selbsterklärend. Mit einem Klick oder Doppelklick (siehe Einrichten von StabWin) starten Sie ein Programm, mit einem Rechtsklick werden der Desktop-Ordner für alle Benutzer und der für den aktuellen Benutzer geöffnet. Über F5 aktualisieren Sie die Ansicht.
+
+<b>- Menü</b>
+
+Das unten links befindliche Menü ist der Startleiste von Windows nachempfunden. Frei definierbare Buttons (siehe Einrichten von StabWin) werden hier mit einem Klick aktiviert.
+StabWin legt bei der Installation noch einen Ordner mit seinen verknüpften Programmen an. Diesen finden Sie normalerweise, wenn Sie unter Programmübersicht in den Ordner StabWin wechseln.
+
+<b>- Uhr</b>
+
+Diese Funktion zeigt Datum und Uhrzeit an. Über einen Doppelklick können Sie Datum und Uhrzeit auch verändern. 
+
+<b>- System-Tray (Tray-Module)</b>
+
+Das Tray-Module links oben stellt den Ersatz des Bereichs dar, der sonst rechts unten neben der Uhr zu finden ist und im Allgemeinen als System-Tray bezeichnet wird. Seine Bedienung gleicht der des Explorer-Systemtrays. <b>Hinweis: Das Traymodule wird nicht von mir entwickelt, sondern von Anish Mistry. Mehr dazu in der beiliegenden Datei traymodule-readme.txt (englisch). Ich übernehme dafür keine Verantwortung und biete keine Unterstützung an.</b>
+
+<b>- Startmenü</b>
+
+Das Startmenü rufen Sie auf, indem Sie auf den gleichnamigen Button im Menü klicken. Die Bedienung erfolgt wie die des Windows-Startmenü, mit der Ausnahme, dass zurzeit keine Sortierung möglich ist. Lassen Sie sich im Startmenü nicht von Dateien wie z.B. xxx.lnk verwirren, es handelt sich dabei um dieselben Dateien, die Sie im Startmenü normalerweise sehen. Sobald Sie auf "-- Startmenü schließen --" klicken, verschwindet das Menü, mit "-- Startmenü im Dateimanager öffnen --" öffnen Sie den Startmenü-Ordner im Standard-Dateimanager, um das Startmenü zu bearbeiten. Auf manchen Systemen öffnen sich dann zwei Ordner, einer für Ihr Startmenü und einer für das aller Nutzer.
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 10 ---- 
+Der StabWin-Dateimanager ist eine stabile und schnelle Alternative zum absturzanfälligen Explorer. Der Vorteil: Er hängt nicht mit der Oberfläche zusammen und sie stürzt somit nicht ab, wenn der Dateimanager ausfällt. Der Bedienungskomfort reicht für den üblichen Gebrauch, ist aber noch verbesserungswürdig. Die Nutzung wird empfohlen, ist aber nicht bindend. 
+Die Bedienung des StabWin Dateimanagers erfolgt größtenteils über Menüs, deren Untermenüs durch Hotkeys aufgerufen werden können, die rechts neben den einzelnen Unterpunkten stehen.
+Diese befinden sich am oberen Rand des Fensters. Über ein Eingabefeld unter den Menüs kann das Verzeichnis eingegeben werden, in das nach der Bestätigung mit Enter gewechselt wird. Der Button mit dem Pfeil rechts daneben wechselt in das übergeordnete Verzeichnis. Mit einem Druck auf F5 aktualisieren Sie den Inhalt des Fensters.
+Im unteren Bereich sieht man ein Feld mit zwei Spalten. Die linke gibt den vollständigen Dateinamen an. In der rechten Spalte sehen Sie eine Beschreibung des Objekts. Meist steht da nichts, manchmal enthält sie den Eintrag "Verzeichnis" oder "Laufwerk ". In letzterem Fall wechselt der StabWin-Dateimanager in das Verzeichnis beziehungsweise auf das Laufwerk, ansonsten führt er die Datei mit dem Standardprogramm aus. Eine Ausnahme: Neben den Sonderverzeichnissen Netzwerkumgebung und Papierkorb steht nichts, obwohl der StabWin Dateimanager in sie wechselt. Die Netzwerkumgebung ist der von Windows ähnlich, der Mülleimer bzw. Papierkorb (die Begriffe werden synonym gebraucht) wird später beschrieben. Auswählen können Sie zwar mehrere Dateien, wenn nicht anders angegeben wird allerdings nur die erste der ausgewählten Dateien verwendet. Einen Dialog bestätigen Sie in der Regel mit OK. 
+Im Folgenden werden die einzelnen Menüs genauer erläutert.
+
+<jump=SHM_contents0012>Weiter</jump>
+----- SHM ---- page 11 ---- 
+<b><u><i>1. Datei / Ausführen</i></u></b>
+
+Mit Ausführen können Sie eine beliebige Anwendung ausführen. Die einzelnen Felder sind: 
+
+<b>- Anwendung</b>
+In dieses Feld tragen Sie den relativen bzw. absoluten Pfad der Anwendung und die Parameter der Anwendung an, falls Sie welche benötigen.
+<b>- "... "</b>
+Mit diesem Knopf können Sie über einen Dialog die Datei wählen, die Sie ausführen wollen.
+
+<b><u><i>2. Datei / Suchen</i></u></b>
+
+Mit dem Suchen-Dialog können Sie Dateien auf Ihrem Computer aufspüren. Der Dialog ist in viele Elemente gegliedert, die jetzt im Einzelnen erläutert werden.
+
+<b>- Dateiname</b>
+
+Das Feld "Dateiname" enthält die wesentlichen Optionen des Suchen-Dialogs.
+
+	<b>- Suchkriterium (*.*)</b>
+Das Suchkriterium  beschreibt das Muster des Dateinamens. Erlaubt sind * für beliebig viele Zeichen und ? für ein Zeichen. Es kann auch der vollständige Name einer Datei angegeben werden.
+	<b>- Enthaltener Text</b>
+Gibt einen kurzen Text an, den die Datei enthalten soll. Es sind beliebige Zeichen erlaubt, allerdings haben * und ? keine besondere Bedeutung.
+	<b>- Groß-/Kleinschreibung</b>
+Gibt an, ob der enthaltene Text in der genauen Groß-/ Kleinschreibung enthalten sein soll.
+	<b>- Ordner</b>
+Gibt den Ordner an, in dem nach den Dateien gesucht werden soll. Normalerweise werden auch dessen Unterordner durchsucht, unter Sonstiges finden Sie aber eine entsprechende Einstellung, die dies ändern kann.
+
+<b>- Datum/ Uhrzeit</b>
+
+	<b>- Aktiviere Datum/Uhrzeit</b>
+Mit diesem Kontrollkästchen aktivieren Sie das Suchformular für das Kriterium Datum/ Uhrzeit. Damit prüfen Sie die Erstellungs- bzw. Änderungszeit vom Dateien.
+	<b>- Erstellt/ Geändert</b>
+Gibt an, ob die Datei vor, nach oder zu diesem Zeitpunkt erstellt oder geändert wurde.
+	<b>-Vor/ Am/ Nach-Datum</b>
+Gibt an, ob die Datei vor, zu oder nach diesem Zeitpunkt erstellt bzw. geändert wurde. Die Eingabefelder darunter verlangen den genauen Zeitpunkt, nach dem die Dateien gefiltert werden sollen, im TT.MM.JJ. - StSt-MiMi-SeSe- Format. Dabei steht T für Tag, M für Monat, J für Jahr, St für Stunde, Mi für Minute und Se für Sekunde.
+
+<b>- Größe</b>
+
+	<b>- Aktiviere Größe</b>
+Aktiviert das Suchformular für die Größe der Datei. Mit diesem Formular können Sie Dateien nach ihrer Größe filtern.
+	<b>- Größer/ kleiner/ gleich-KByte</b>
+Mit diesem Feld stellen Sie ein, ob die Datei größer, kleiner oder gleich der eingestellten Kilobytezahl sein soll. 
+
+<b>- Sonstiges</b>
+
+Hier finden Sie zusätzliche Optionen, um Ihre Suchabfrage anzupassen. 
+
+	<b>- In Unterverzeichnissen suchen</b> 
+Hier stellen Sie ein, ob die Unterverzeichnisse des Ordners, den Sie gewählt haben, ebenfalls durchsucht werden sollen. 
+	<b>- Dateien suchen  / Ordner suchen</b> 
+Hier stellen Sie ein, ob Sie nach Dateien, nach Ordnern oder nach beidem suchen wollen. 
+	<b>- Nach Ordnern sortieren  / Nach Dateien sortieren</b> 
+Hier stellen Sie ein, ob die Dateien alphabetisch oder nach den Ordnern, in denen sie liegen, sortiert werden. Die Elemente werden unter sich alphabetisch sortiert. 
+
+<b><u><i>3. Datei / Explorer öffnen</i></u></b> 
+
+Öffnet den Standard-Dateimanager von Windows, den Explorer, mit dem aktuellen Verzeichnis. Diese Option wurde eingebaut, weil es Spezialaufgaben gibt, für die der StabWin-Dateimanager nicht ausreicht, z.B. wenn Sie die Systemsteuerung aufrufen oder Drag and Drop durchführen wollen. 
+
+<b><u><i>4. Datei / Enthaltenden Ordner öffnen</i></u></b> 
+
+Öffnet den Ordner, der die gewählte Datei enthält. Dieser Eintrag macht nur bei Suchergebnissen Sinn und kann auch nur dort angewandt werden.
+
+<b><u><i>5. Datei / Neuer Ordner</i></u></b> 
+
+Dieser Dialog erstellt einen neuen Ordner. Der Pfad zum Ordner muss relativ zum aktuellen Verzeichnis angegeben werden.
+
+	<b>- D (Datei)  / V (Verzeichnis) </b>
+Mit diesen Buttons können Sie entweder einen Datei- oder Verzeichnisauswahldialog öffnen. Dessen Ergebnis wird dann in das Eingabefeld eingetragen und ersetzt den vorhandenen Inhalt. 
+
+<b><u><i>6. Datei / Neue Verknüpfung</i></u></b> 
+
+Mit diesem Menü legen Sie eine neue Verknüpfung an. 
+
+	<b>- Name der Verknüpfung </b>
+Gibt den Dateinamen der Verknüpfung relativ zum aktuellen Pfad an.
+		<b>- "... "</b> - Mit diesem "..."-Button kann die auszuführende Datei gewählt werden.
+	<b>- Internet- / Datei Verknüpfung </b>
+Hier stellen Sie ein, ob Sie eine Verknüpfung zu einer Datei- oder Internet-Adresse anlegen wollen. 
+	<b>- Pfad der Datei</b> 
+Gibt den absoluten Pfad der Datei an, auf die die Verknüpfung verweisen soll. 
+	<b>- Parameter</b> 
+Hier können Sie Ausführungsparameter angeben, wenn Sie welche benötigen. 
+	<b>- Verzeichnis, in dem die Datei ausgeführt wird</b> 
+Legt das Verzeichnis fest, dass der Datei als aktuelles Verzeichnis übergeben wird, bzw. in dem sie ausgeführt wird. Dieses Verzeichnis wird automatisch eingestellt, wenn Sie die Datei über den "..."-Button auswählen. 
+		<b>- "... "</b>  - Mit diesem "..."-Button kann das Verzeichnis separat gewählt werden. Dies ist aber meist nicht nötig. 
+	<b>- Anzeigemodus (Normal  / Minimiert  / Maximiert)</b>
+Hier stellen Sie ein, ob das Hauptfenster der Anwendung nach dem Start normal, minimiert oder maximiert  erscheinen soll. An diese Vorgaben halten sich nicht alle Anwendungen, ein großer Teil der StabWin-Komponenten zum Beispiel missachtet diese Einstellung auf Grund fehlender Notwendigkeit und zur Vermeidung von Fehlern durch falsche Anzeige.
+
+<b><u><i>7. Datei / Öffnen mit</i></u></b> 
+
+Der Öffnen Mit-Dialog öffnet die gerade gewählte Datei mit einer bestimmten Anwendung. Der Öffnen Mit-Dialog funktioniert wie der Ausführen-Dialog, sodass er nicht gesondert beschrieben werden muss. 
+
+<b><u><i>8. Datei /  Eigenschaften</i></u></b> 
+
+Im Eigenschaften-Dialog werden Eigenschaften der aktuellen Datei aufgezählt. Die Kenntnisse über diese Eigenschaften werden vorausgesetzt. Die Bedienung des Unterpunkts Dateiattribute und der Button Verknüpfung werden im Folgenden als besondere Einrichtungen beschrieben. 
+
+	<b>- Dateiattribute</b> 
+Hier können die vier verschiedenen Attribute der Dateien verändert werden. Mit einem Klick auf OK werden diese Änderungen übernommen. 
+	<b>- Verknüpfung</b> 
+Dieser Button öffnet bei Verknüpfungen den Verknüpfungseditor, um deren Eigenschaften zu ändern. Der Verknüpfung wird dabei unter Umständen eine andere Dateiendung zugewiesen, die Ursprungsdatei bleibt in diesem Fall erhalten. 
+
+<b><u><i>9. Datei / Beenden</i></u></b> 
+
+Beendet den StabWin-Dateimanager. Alternativ können Sie dazu auch den Schließen-Button oben rechts in der Ecke benutzen. 
+
+<jump=SHM_contents0013>Weiter</jump>
+----- SHM ---- page 12 ---- 
+Mit diesem Menü ist es möglich, Dateien auch zwischen Fenstern des StabWin Dateimanagers auszutauschen. Sie können beliebig viel Dateien auswählen und mit den unten dargelegten Menüs innerhalb des StabWin-Dateimanagers verschieben bzw. kopieren. Diese Option arbeitet nicht mit dem Explorer zusammen. 
+
+<b><u><i>1. Bearbeiten / Ausschneiden</i></u></b>
+
+Diese Option kopiert Dateien mit dem Vermerk in die Zwischenablage, dass Sie diese verschieben wollen. Sobald Sie sie einfügen, werden sie an den gewählten Ort verschoben. 
+
+<u><i><b>2. Bearbeiten / Kopieren</b></i></u>
+
+Diese Option kopiert Dateien an den ausgewählten Ort, sobald Sie sie einfügen. 
+
+<u><i><b>3. Bearbeiten / Einfügen</b></i></u>
+
+Führt die vorher gewählte Aktion aus, das heißt kopiert bzw. verschiebt die gewählten Dateien in den aktuellen Ordner. 
+
+<jump=SHM_contents0014>Weiter</jump>
+----- SHM ---- page 13 ---- 
+In diesem Menü liegen die wichtigsten Funktionen des StabWin Dateimanagers. Mit ihnen können der Name und die Lokalität von Dateien verändert werden. Es wurden sowohl Funktionen integriert, die heute im Explorer vorkommen, als auch praktische Funktionen, die nicht mehr unterstützt werden, wie Kopieren und Verschieben nach.
+Wenn Sie die Datei nun kopieren, löschen oder verschieben, werden Sie mit einem Fenster namens „Datenschieber“ konfrontiert. Es zeigt Ihnen Fehler beim Kopieren bzw. Löschen an, so lange sie nicht die Kapazität des Textfeldes überschreiten, und bietet Ihnen die Möglichkeit, den Vorgang über den Button Abbrechen zu unterbrechen und nach Beendigung des Vorgangs das Fenster über den Schließen-Button zuzumachen. Wenn Sie eine Datei überschreiben wollen oder eine schreibgeschützte Datei löschen wollen, wird vorher mit einem Dialog nachgefragt. In diesem Fall haben Sie vier Möglichkeiten: entweder Sie überschreiben bzw. löschen nur diese Datei, indem Sie Ja klicken, oder Sie verschonen nur diese Datei, indem Sie Nein klicken. Wenn Sie jedoch alle Dateien in diesem Vorgang überschreiben bzw. löschen oder alle Dateien erhalten wollen, müssen Sie mit Alle überschreiben/löschen bzw. Alle erhalten antworten.
+Es folgt nun die Beschreibung der einzelnen Punkte des Menüs. 
+
+<b><u><i>1. Dateiaktionen / Umbenennen</i></u></b> 
+
+Ändert den Namen einer Datei im aktuellen Verzeichnis. Der Ort der Dateien kann dabei nicht geändert werden. Der gezeigte Dialog wurde zuvor erklärt. Diese Option nimmt nur eine Datei an. 
+
+<b><u><i>2. Dateiaktionen / Verschieben nach</i></u></b> 
+
+Diese Optionen nimmt mehrere Dateien an, die an einen bestimmten Ort verschoben werden sollen. Der Pfad muss absolut angegeben werden. Bei mehreren Dateien sollte der Name eines existierenden Verzeichnisses eingegeben werden. Bei einer Datei kann noch ein vollständiger Dateiname eingegeben werden.
+
+<b><u><i>3. Dateiaktionen / Kopieren nach</i></u></b>
+
+Mit dieser Funktion kopieren Sie eine oder mehrere Dateien an einen bestimmten Ort. Die Bedienung stimmt im Wesentlichen mit der der Funktion Verschieben nach überein, weswegen sie hier nicht gesondert beschrieben wird. 
+
+<b><u><i>4. Dateiaktionen / In den Papierkorb</i></u></b> 
+
+Diese Funktion verschiebt mehrere Dateien in den StabWin Papierkorb. Der StabWin-Papierkorb ist NICHT mit dem von Windows identisch. Sie können die Dateien über die Funktion Wiederherstellen an ihren Ursprungsort zurückverschieben. Diese Funktion ist identisch mit der Löschen-Funktion des Explorers, aber NICHT mit der Löschen-Funktion des StabWin Dateimanagers, welche Dateien endgültig löscht.
+Beachten Sie auch, dass mit der Deinstallation von StabWin die Wiederherstellungsinformationen für Dateien im Papierkorb verloren gehen. Die Dateien aus dem Papierkorb lassen sich dann nicht wiederherstellen (siehe FAQ).
+
+<b><u><i>5. Dateiaktionen / Wiederherstellen</i></u></b> 
+
+Diese Funktion stellt mehrere Dateien aus dem Papierkorb wieder her, das heißt verschiebt sie an ihren Ursprungsort. Dies funktioniert nur, wenn die Wiederherstellungsdaten für die Datei vorhanden sind (siehe vorh. Abschnitt). Sollten Sie sich noch nicht im Papierkorb befinden, wechseln Sie bitte dorthin. Um diese zu erreichen, klicken Sie so oft auf den Button mit dem Pfeil, bis die Laufwerksübersicht erscheint. Hier doppelklicken Sie auf Papierkorb. Der Ursprungsort wird in der Spalte rechts vom Dateinamen angezeigt. 
+
+<b><u><i>6. Dateiaktionen / Löschen</i></u></b>
+
+Die Funktion löscht eine Datei oder ein Verzeichnis endgültig, das heißt Sie können es nicht wiederherstellen. Deswegen fragt das Programm auch noch einmal nach, ob Sie sich wirklich sicher sind. Wenn Sie sich Ihre Aktion gut überlegt haben, können Sie bejahen, ansonsten antworten Sie mit Nein.
+
+<jump=SHM_contents0015>Weiter</jump>
+----- SHM ---- page 14 ---- 
+Ruft verschiedene Informationen zum StabWin-Dateimanager auf.
+
+<b><u><i>? / Hilfe</i></u></b>
+
+Zeigt die Hilfe an. Sollte das nicht funktionieren, wurde StabWin möglicherweise nicht korrekt installiert.
+
+<b><u><i>? / Info</i></u></b>
+
+Zeigt Informationen zum StabWin-Dateimanager an.
+
+<jump=SHM_contents0016>Weiter</jump>
+----- SHM ---- page 15 ---- 
+Die Fehlermeldungen eines Programms müssen knapp gehalten werden, damit sie übersichtlich bleiben. Deshalb können die Fehlermeldungen des StabWin-Dateimanagers manchmal recht kryptisch wirken. Die folgende alphabetisch geordnete Liste erklärt, was die Fehlermeldungen des Dateimanagers bedeuten.
+
+<i>- Auf Wechseldatenträgern existiert kein Papierkorb.</i>
+
+Da Wechseldatenträger oft zu wenig Platz dafür bieten, wird hier kein Papierkorb angelegt.
+
+<i>- Das Verzeichnis existiert nicht oder es ist kein Datenträger eingelegt. Es wird in die darüberliegende Ebene gewechselt.</i>
+
+Sie wollten wahrscheinlich ein Laufwerk ansehen, in dem kein Datenträger war, oder ein Verzeichnis hat zum Zeitpunkt der letzten Aktualisierung noch existiert und wurde in der Zwischenzeit entfernt. Wenn Sie nun versuchen, den Dateimanager mit F5 zu aktualisieren, reagiert er, indem er auf die nächsthöhere Verzeichnisebene wechselt. Sollte dort ebenfalls kein Verzeichnis existieren, wird die Meldung nochmals erscheinen und die Prozedur wird sich wiederholen. Die letzte Ebene wäre in jedem Fall die Computerübersicht.
+
+<i>- Das Zielverzeichnis existiert nicht.</i>
+
+Dieser Fehler tritt auf, wenn Sie eine Datei oder einen Ordner in ein Verzeichnis kopieren wollen, das nicht existiert.
+
+<i>- Das Zielverzeichnis ist dem Ausgangsverzeichnis untergeordnet.</i>
+
+Es schließt sich logisch aus, dass ein Verzeichnis in sich selbst kopiert werden kann, deswegen wird der Vorgang mit dieser Meldung abgebrochen, wenn es versucht wird.
+
+<i>- [Die Ausgangsdatei/Das Ausgangsverzeichnis] existiert nicht.</i>
+
+Diese Fehlermeldung könnte erscheinen, wenn Sie den StabWin-Dateimanager nicht oft genug aktualisiert haben und eine Datei kopieren wollen, die nicht mehr existiert.
+
+<i>- Die Datei [Dateiname] existiert hier bereits. Soll sie überschrieben werden?</i>
+
+Diese Meldung wird so oder so ähnlich immer dann erscheinen, wenn eine Datei an einem bestimmten Ort schon existiert, an dem eine gleichnamige erstellt werden soll. Manche Dialoge bieten noch die Schaltflächen Ja, Nein, Alle überschreiben und Alle erhalten an.
+
+<i>- Die Datei konnte nicht in den Papierkorb verschoben werden. Der Dateiname im Papierkorb konnte nicht erzeugt werden.</i>
+
+Es sind so viele Dateien im Papierkorb, das es nicht mehr möglich war, neue Dateien in den Papierkorb zu verschieben. Dies sollte äußerst selten passieren, wenn diese Meldung jedoch auftaucht, sollten Sie Ihren Papierkorb leeren. Danach wird die Aktion meist wie geplant durchgeführt. Wenn jedoch wider Erwarten dieser Fehler erneut auftreten sollte, überlegen Sie sich, ob Sie all diese Dateien wirklich noch brauchen. Wenn nicht, löschen Sie sie endgültig, wenn doch, verwenden Sie bitte den Windows-Papierkorb über den Explorer.
+
+<i>- Es existiert bereits eine Datei mit dem Namen [Dateiname].
+Wählen Sie bitte einen anderen.</i>
+
+Es existiert bereits eine Datei, über die ein Verzeichnis nicht kopiert werden kann.
+
+<i>- Fehler beim [Kopieren/Löschen/Umbennen/Erstellen des Verzeichnisses/Entfernen des Verzeichnisses] der Datei [...]</i>
+
+Wenn ein Fehler auftritt, der durch das Programm nicht ausgeschlossen werden konnte, wird diese Meldung angezeigt. Sie enthält zudem Fehlercode und -beschreibung zur weiteren Recherche.
+
+<i>- Mindestens eine Kopieraktion schlug fehl. Möchten Sie den Ursprungsordner trotzdem löschen?</i>
+
+Während des Kopierens eines Ordners, der verschoben werden sollte, traten mehrere Fehler auf. Sollten Sie die Fehler verfolgt haben und sollte es sich um nichtige Fehler handeln, können Sie bejahen. Sonst antworten Sie mit Nein und sämtliche Ihrer Daten bleiben erhalten. So können Sie evtl. die Fehler beseitigen und einen erneuten Anlauf starten.
+
+<i>-Mindestens eine Kopieraktion schlug fehl. Das Löschen der Ursprungsdatei wird deshalb übersprungen.</i>
+
+Bei einzelnen Dateien macht es wenig Sinn, nachzufragen, ob man Sie trotz Fehlschlagens löschen will. Deshalb wird der Vorgang hier automatisch abgebrochen.
+
+<i>- Wollen Sie diese Datei(en) wirklich UNWIDERRUFLICH löschen?</i>
+
+Mit dieser Frage werden Sie konfrontiert, wenn Sie die Funktion Löschen benutzen. Seien Sie hier nochmals daran erinnert, dass die gewählten Dateien nach dem Benutzen dieser Funktion unwiederbringlich verloren sind.
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 16 ---- 
+Hier werden häufig gestellte Fragen der StabWin-Nutzer gesammelt. 
+
+<b>F: Nachdem sich der Ordner für meine Dokumente geändert hat, funktioniert das Menü nicht mehr. Wie löse ich das Problem? 
+A:</b>  StabWin sucht den Startmenü-Ordner bei der Installation und richtet das Menü auf diese Daten aus. Wenn sich der Dokumente-Ordner geändert hat, müssen Sie das StabWin-Konfigurationsprogramm aufrufen und unter dem Register Menü auf den Button "Standard-Buttons wiederherstellen" klicken. Dadurch wird der Startmenü-Ordner  neu eingelesen. 
+
+<b>F: Wenn ich eine CD einlege, erscheint nicht das richtige Menü. Woran liegt es? 
+A:</b>  Für das Starten dieses Menüs ist der Explorer zuständig, der ja bei StabWin selbstverständlich nicht ausgeführt wird. In StabWin ist die Funktion des CD-Menüs nicht integriert, sie würde einen ständigen Zähler benötigen und somit sehr viel Leistung und Stabilität einbüßen. 
+Es gibt aber alternative Wege. Die meisten Programme, die eine CD benötigen, sind auch im Startmenü oder auf dem Desktop vertreten, meist unter ihrem Namen. Wenn Sie dort keine Möglichkeit finden, das Programm zu starten, können Sie über den Button CD / DVD im Menü nach einem Programm suchen, das den Namen (Auto) Start.exe, Menu.exe oder Ähnliches trägt. Sollten Sie nichts finden, öffnen Sie die Datei autorun.inf. Hier steht hinter "open=" der Name der Datei, die normalerweise gestartet wird, relativ zum CD-Hauptverzeichnis. Als letzten Rettungsanker können Sie auch den Explorer wieder als Shell starten. (-> nächster Tipp) 
+
+<b>F: Ich finde meine Fenster nicht wieder, die ich weiter hinten abgelegt habe. Wieso gibt es keine Taskleiste?
+A:</b> Die Taskleiste ist tatsächlich nicht in der bekannten Form vorhanden. Allerdings ist in Windows schon sehr lange eine andere Form implementiert. Halten Sie die Alt-Taste gedrückt und betätigen Sie einmal kurz die Tab-Taste. Sie sehen eine Liste mit den Symbolen aller geöffneten Fenstern und darunter ein Feld, in dem der Anwendungsname steht. Wenn Sie nun nochmals die Tab-Taste drücken und die Alt-Taste selbstverständlich gedrückt lassen, wird ein anderes Fenster ausgewählt. Sobald Sie die Alt-Taste loslassen, wird das ausgewählte Fenster in den Vordergrund gebracht.
+
+<b>F: Ich möchte gerne Dateien aus dem Dateimanager auf den Desktop ziehen, aber es tut sich nichts. Warum?
+A:</b> Der Desktop unterstützt (zumindest zurzeit) noch kein Drag and Drop, das heißt das Ziehen und Ablegen von Objekten. Sie können allerdings per Rechtsklick auf den Desktop zwei Fenster des StabWin-Dateimanagers öffnen. Hier können Sie dann über das Menü "Bearbeiten" von Ihrem Ausgangsort Dateien ausschneiden oder kopieren, und diese dann im Dateimanagerfenster des Desktops einfügen.
+
+<b>F: Ich vermisse die Zusatzinformationen, die mir in der linken Spalte des Explorers angezeigt werden. Kann ich diese auf einem anderen Weg abrufen?
+A:</b> Sie können den wichtigsten Teil aufrufen, indem Sie Alt+Enter dürcken oder das Menü Datei / Eigenschaften aufrufen. Sollten Sie die gewünschten Informationen nicht finden, müssen Sie sie eben im Explorer anzeigen lassen. Rufen Sie diesen dazu unter Datei / Explorer öffnen auf.
+
+<b>F: Bei der Deinstallation von StabWin befanden sich noch Dateien im Papierkorb. Diese habe ich zwar jetzt im Verzeichnis SW_Trash wiedergefunden, ich finde allerdings kein Möglichkeit, sie wiederherzustellen.
+A:</b> Diese werden Sie auch nicht finden, denn bei der Deinstallation von StabWin sind die Wiederherstellungsinformationen für die Dateien im Papierkorb entfernt worden. Wenn Sie sich noch erinnern können, wo sich die Dateien befanden, können Sie sie mithilfe des Explorers an den Ursprungsort kopieren, ansonsten sollten Sie die Dateien permanent löschen, da sie nun wertlos geworden sind. Übrigens: Der Ordner SW_Trash ist nicht geschützt, sollte er sie stören, können Sie ihn einfach entfernen.
+
+
+<b>F: Das Wechseln von StabWin zum Explorer dauert mir zulange. Wie kann ich diesen Vorgang beschleunigen? 
+A:</b>  Dazu können Sie sich folgenden Tricks bedienen: Starten Sie zuerst das StabWin-Konfigurationsprogramm und entfernen Sie das Häkchen vor "StabWin als Shell einsetzen". Klicken Sie auf OK und ignorieren Sie die Aufforderung zum Neustart. Öffnen Sie jetzt ein Fenster des StabWin-Dateimanagers und rufen Sie Datei, Explorer öffnen auf. Warten Sie kurz ab, bis der Startvorgang des Explorers vorbei ist, das heißt bis die Sanduhr oder ähnliches verschwindet. Schließen Sie alle Fenster über das Schließkreuz und dann die StabWin-Fenster per Druck auf Alt und gleichzeitig F4. Umgekehrt geht das leider nicht, weil sich die Oberfläche des Explorers nur durch Neustart entfernen lässt. 
+
+<b>F: Wenn ich meinen Computer starte, sehe ich nur das Hintergrundbild und eventuell eine Meldung mit dem Text: " Fehler beim Laden von [...] StabWin. Exe. Windows muss neu installiert werden. " oder ähnliches. Was muss ich tun? 
+A:</b> Gleich vorab: Greifen Sie auf keinen Fall zur Windows-CD! Sie müssen Windows NICHT neu installieren. Gehen Sie stattdessen wie folgt vor: 
+
+<i>Windows NT/2000/XP:</i> Drücken Sie, wenn nach der Anmeldung nichts passiert, auf Strg+Alt+Entf (gleichzeitig die diese drei Tasten drücken), und wählen Sie Ausführen bzw. Datei/Ausführen oder ähnliches. Klicken Sie auf Durchsuchen und wechseln Sie in das StabWin Verzeichnis. Prüfen Sie hier zuerst, ob die Datei StabWin.exe  noch existiert. Wenn das der Fall sein sollte, versuchen Sie das Programm config.exe zu finden, und starten Sie es, indem Sie zweimal auf OK klicken. Stellen Sie sicher, dass " StabWin als Oberfläche einsetzen " aktiviert ist, und klicken Sie auf Fertigstellen. Nach einem Neustart über Herunterfahren/Neustarten erscheint wieder die StabWin Oberfläche. 
+Wenn die StabWin.exe nicht vorhanden ist, müssen Sie StabWin erneut installieren. Auch hier ist es von Vorteil, wenn Sie die config.exe noch finden können. In diesem Fall starten Sie sie wie oben beschrieben, deaktivieren aber diesmal " StabWin als Oberfläche einsetzen ". Nach einem Neustart ist Windows wiederhergestellt und Sie können StabWin erneut installieren. 
+Sollte auch die config.exe nicht mehr auffindbar sein, wird es kniffliger. Schließen Sie den Dateiauswahldialog mit einem Klick auf Abbrechen und geben Sie in die Zeile im Fenster " Ausführen " nur regedit. Exe ein. Wechseln Sie hier in der linken Baumansicht zum Schlüssel HKEY_LOCAL_MACHINE \ Software \ Microsoft \ Windows NT \ CurrentVersion \ WinLogon und doppelklicken Sie hier im rechten Fenster auf den Wert Shell. Ändern Sie im erscheinenden Fenster den Wert des unteren Eingabefeldes auf Explorer.exe. Nach einem Neustart können Sie unter der Explorer-Oberfläche versuchen, StabWin neu zu installieren. 
+
+<i>Windows 95/98/Me:</i> Unter diesen Windows-Systemen wird die Sache ein wenig komplizierter. Bei Windows 95/98 drücken Sie nach dem Anzeigen des Bios-Screens bzw. kurz vor dem Hochfahren des Systems die Taste F8 schnell und kurz mehrmals hintereinander. Nun müsste ein Startmenü erscheinen, in dem unter anderem " Nur Eingabeaufforderung " angeboten wird. Wenn der übliche Startscreen erscheint, drücken Sie Strg + Alt+ Entf und probieren es noch einmal, sonst wählen Sie "Nur Eingabeaufforderung ". 
+Bei Windows Me legen Sie vor dem Rechnerstart die Notfalldiskette ein und versuchen, den Rechner damit zu starten. Sollte das Startmenü der Diskette erscheinen, wählen Sie den vierten Punkt: Computer mit Minimalkonfiguration starten. 
+In beiden Fällen müsste nach einer gewissen Zeit die Meldung C:\> erscheinen. Geben Sie nun folgende Zeile ein (achten Sie darauf, dass es sich bei den Schrägstrichen um Backslashs handelt, also solche, die man mit Alt Gr + ß erzeugt): 
+edit c:\windows\system.ini
+Es müsste gleich oben die Zeichenfolge [boot] und darunter der Eintrag shell= erkennbar sein. Löschen Sie alles, was noch in derselben Zeile hinter shell= steht, und schreiben Sie dafür Explorer.exe ein. Klicken Sie nun auf Datei , Beenden und bestätigen Sie mit Ja. Nehmen Sie nun eventuell die Boot-Diskette aus dem Laufwerk und drücken Sie Strg+Alt+Entf, um neu zu starten. Nach einem Neustart können Sie über die Explorer-Oberfläche StabWin neu installieren.
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 17 ---- 
+<u><b>Oberfläche</b></u> 
+
+Für die Definition einer Oberfläche sehen Sie bitte auf der ersten Seite der Hilfe unter "Was ist StabWin?" nach.
+
+<u><b>Absolute Adresse (bzw. absoluter Pfad) </b></u>
+
+Eine absolute Adresse ist eine vollständige Dateiadresse vom Laufwerksbuchstaben über alle Ordner zur Datei. Sie ist nach folgendem Muster aufgebaut:
+Laufwerksbuchstabe: \ Ordner \ Ordner \ [...] \ Dateiname 
+
+<u><b>Relative Adresse  / Pfad</b></u> 
+
+Diese Adresse richtet sich relativ nach dem aktuellen Verzeichnis. Meistens besteht sie nur aus den Dateinamen, sie kann allerdings noch einen Ordner enthalten: [Ordner\]Dateiname 
+
+<u><b>Dialog</b></u> 
+
+Ein Dialog ist (abstrakt definiert) ein Fenster, das auf irgend eine Weise mit dem Benutzer interagiert. Meistens enthält dieses Fenster ein Eingabefeld, einen OK- und einen Abbrechen-Button. Mit OK bzw. Übernehmen werden die Eingaben übernommen, mit Abbrechen verworfen. Meist sind auch noch erklärende Textfelder eingefügt. Große Teile von StabWin werden über Dialoge gesteuert. 
+
+<u><b>Explorer</b></u> 
+
+Dies ist sowohl der Standard-Dateimanager als auch die Standard-Oberfläche von Windows. Sie sehen ihn, vorausgesetzt, Sie haben StabWin noch nicht installiert, wenn der Rechner hochgefahren ist, in der Oberflächenform.
+Wenn Sie den Arbeitsplatz aktivieren, sehen Sie die erste Dateimanagerform. Sie zeigt nur den Ordner mit einer kleinen Menge Informationen in der linken Spalte an. Wenn Sie rechts auf den Arbeitsplatz klicken, können Sie durch den Aufruf des Menüpunkts " Explorer " die dritte Form einsehen. Diese zeigt dann links eine Baumansicht des Computers. Ein Ziel bei der Entwicklung von StabWin war, sich von diesen Hauptprogramm zu lösen, das mit einem Absturz das gesamte System unbenutzbar macht.
+
+<jump=SHM_contents0001>Zurück</jump>
+----- SHM ---- page 18 ---- 
+StabWin wurde von Martin Unzner geplant, entworfen und entwickelt, die Patentrechte und Copyrights liegen bei ihm. Die Entscheidung, StabWin unter der GPL zu vertreiben, kann jederzeit zurückgenommen werden. 
+Die GPL besagte im wesentlichen, dass Quellcode und Programm frei sind, allerdings nicht kommerziell weiterverwendet werden dürfen. Nährere Informationen unter {\uldb http://www.gnu.org/licenses/gpl.htm}{\v !ExecFile(http://www.gnu.org/licenses/gpl.htm,,9,)} . 
+
+Danken möchte ich vor allem den vielen eifrigen Foren- und Newsgroupnutzern, die meine Fragen mal direkt, mal indirekt, mal sehr, mal weniger geduldig beantwortet haben, meinen Betatestern, namentlich meinem Betreuer Herrn Frank Gräf, Herrn Alfred Byhan, Johannes Paul Lösche und Wilhelm Thomas Neubert, die sich bereitwillig auf meine Oberfläche eingelassen haben, und natürlich meinem Fujitsu-Siemens xpert-Computer, der es mir ermöglicht hat, mein Oberfläche zu schreiben und selbst zu testen.
+
+<jump=SHM_contents0001>Zurück</jump>
